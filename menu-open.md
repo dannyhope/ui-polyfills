@@ -6,6 +6,9 @@ Expects structure roughly as a heading to click on to open (`h2`) and a list (`u
 
 [![HTML tree for menu](http://i.imgur.com/Hqire.png)](http://software.hixie.ch/utilities/js/live-dom-viewer/?%09%09%09%09%3Ch2%3EAdd%20to%20my%20calendar%3C%2Fh2%3E%0A%09%09%09%09%3Cul%20id%3D%22calMenu%22%3E%0A%09%09%09%09%09%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fremysharp.com%22%3EiCal%20or%20Outlook%3C%2Fa%3E%3C%2Fli%3E%0A%09%09%09%09%09%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fdannyhope.co.uk%22%20target%3D%22_new%22%3EGoogle%20Calendar%3C%2Fa%3E%3C%2Fli%3E%0A%09%09%09%09%3C%2Ful%3E%0A)
 
+Live working example:
+[http://jsbin.com/3/ideris/7/edit?javascript,live](http://jsbin.com/3/ideris/7/edit?javascript,live)
+
 ## Sequence:
 
 1. Mouse down on heading
